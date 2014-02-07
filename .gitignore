@@ -1,3 +1,6 @@
+.idea/
+krsk24au_scrapy_last/settings.py
+
 *.py[cod]
 
 # C extensions
